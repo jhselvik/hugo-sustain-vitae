@@ -33,7 +33,7 @@
 
 From the root of your Hugo site, clone the theme into `themes/hugo-sustain-vitae` by running :
 ```
-git clone https://github.com/anirbanmu/hugo-sustain-vitae.git themes/hugo-sustain
+git clone https://github.com/anirbanmu/hugo-sustain-vitae.git themes/hugo-sustain-vitae
 ```
 
 #### Manual
