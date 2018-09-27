@@ -120,6 +120,13 @@ Pull requests, bug fixes, and new features are welcome!
 
 ## Changelog
 
+> jhselvik/hugo-sustain-vitae fork
+
+- Renamed some resume sections
+- Added dynamic ranges to education and employment partials
+- Personal customization the index and css files
+- Many other small adjustments
+
 > Version 1.0.1
 
 - Added proper "Projects" page rendering
